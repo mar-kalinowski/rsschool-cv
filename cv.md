@@ -1,7 +1,5 @@
 # **Marcin Kalinowski**
 
----
-
 > I am a creative and resorceful junior **Front-end
 > developer** with an affinity for web design, strong
 > communnication skillset, familiar with Jira and Scrum,
