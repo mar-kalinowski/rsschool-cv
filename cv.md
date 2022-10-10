@@ -22,7 +22,7 @@
 
 ## E-mail: mjk.gdansk@gmail.com
 
-## GitHub: mar-kalinowski
+## GitHub: [mar-kalinowski](https://github.com/mar-kalinowski)
 
 ## LinkedIn: in/mar-kalinowski
 
