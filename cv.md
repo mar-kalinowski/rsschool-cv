@@ -16,11 +16,15 @@
 
 ## and accessibility.
 
-# Contact
+# Contact:
 
 ## Tel: +48 796 228 448
 
 ## E-mail: mjk.gdansk@gmail.com
+
+## GitHub: mar-kalinowski
+
+## LinkedIn: in/mar-kalinowski
 
 ## Location: Gdansk, Poland
 
@@ -35,6 +39,12 @@
 ## Git Version Control
 
 ## Scrum/ Jira
+
+# Languages
+
+## Polish - native language
+
+## English - B2 level
 
 # Education
 
@@ -66,4 +76,24 @@
 
 ## Bechelor of Tourism and Recreation
 
-##
+## Telecomunications Technical School in Gdansk 09.1994 - 06.1999
+
+## Elektronic Technican
+
+# Professional employment
+
+## Driving Licence Examination Centre in Gdansk 08.2017 - up to now
+
+## driving licence examiner - leading theoretical and practical tests for all driving licence categories
+
+## how2drive Marcin Kalinowski (B2B) 04.2009 - 07.2017
+
+## driving instructor - leading theory and practical training for english speaking students (motorcycles and passangers vehicles)
+
+## Wilts & Dorset Bus Company - Poole, Bournemouth, UK - 03.2007 - 08.2008
+
+## passanger service, bus driver
+
+## Hensons Foods Company - London, UK - 07.2006 - 01.2007
+
+# Interests: in free time passionate about climbing and mountain cycling
