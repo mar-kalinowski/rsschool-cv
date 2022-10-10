@@ -30,15 +30,15 @@
 
 # Skills:
 
-## > React.js (styled-components)
+> React.js (styled-components)
 
-## > Javascript
+> Javascript
 
-## > HTML5, SCC3
+> HTML5, SCC3
 
-## > Git Version Control
+> Git Version Control
 
-## > Scrum/ Jira
+> Scrum/ Jira
 
 # Languages
 
