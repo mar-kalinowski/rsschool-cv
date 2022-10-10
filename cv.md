@@ -52,23 +52,23 @@
 
 ### 455h of intensive training (240h of workshop classes) including:
 
-### HTML5, CSS3
+### - HTML5, CSS3
 
-### Javascript
+### - Javascript
 
-### React.js (styled-components)
+### - React.js (styled-components)
 
-### Git Version Control, GitHub
+### - Git Version Control, GitHub
 
-### Typescript
+### - Typescript
 
-### Rest API
+### - Rest API
 
-### Jest Cypress
+### - Jest Cypress
 
-### Firebase/ Firestore
+### - Firebase/ Firestore
 
-### Scrum/ Jira
+### - Scrum/ Jira
 
 ## Final project: http://sport-amigo.netlify.
 
