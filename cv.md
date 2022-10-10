@@ -24,21 +24,21 @@
 
 ## GitHub: [mar-kalinowski](https://github.com/mar-kalinowski)
 
-## LinkedIn: in/mar-kalinowski
+## LinkedIn: [in/mar-kalinowski](https://linkedin.com/in/mar-kalinowski)
 
 ## Location: Gdansk, Poland
 
-# Skills
+# Skills:
 
-## React.js (styled-components)
+## > React.js (styled-components)
 
-## Javascript
+## > Javascript
 
-## HTML5, SCC3
+## > HTML5, SCC3
 
-## Git Version Control
+## > Git Version Control
 
-## Scrum/ Jira
+## > Scrum/ Jira
 
 # Languages
 
