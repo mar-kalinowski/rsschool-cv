@@ -44,7 +44,7 @@
 > > - Git Version Control, GitHub
 > > - Typescript
 > > - Rest API
-> > - Jest Cypress
+> > - Jest, Cypress
 > > - Firebase/ Firestore
 > > - Scrum/ Jira
 
