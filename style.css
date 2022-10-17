@@ -172,6 +172,21 @@ body {
   list-style: none;
 }
 
+.code {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  height: 150px;
+  margin: 10px;
+  background-color: #eee;
+  color: #737373;
+  border-radius: 10px;
+}
+
+.code p {
+  color: #737373;
+}
+
 .footer {
   background-color: #eee;
   height: 60px;
