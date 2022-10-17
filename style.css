@@ -109,13 +109,15 @@ body {
 
 .aside ul {
   padding: 10px;
+  margin-bottom: 5px;
   margin-left: 20px;
+  color: #eee;
 }
 
-.aside ul h2 {
-  margin-bottom: 5px;
-  margin-left: -18px;
+.aside h2 {
   color: #eee;
+  margin-left: 10px;
+  margin-top: 10px;
 }
 
 .aside li {
@@ -148,6 +150,7 @@ body {
 .section h2 {
   font-size: 40px;
   padding-bottom: 10px;
+  margin-left: 40px;
   color: #eee;
 }
 
@@ -158,6 +161,11 @@ body {
 
 .section i {
   color: #eee;
+  margin-left: 40px;
+}
+
+.interests {
+  padding: 60px;
 }
 
 .education_list {
@@ -176,7 +184,7 @@ body {
   display: flex;
   flex-direction: column;
   width: 600px;
-  height: 150px;
+  height: 180px;
   margin: 10px;
   background-color: #eee;
   color: #737373;
